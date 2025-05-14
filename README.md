@@ -1,7 +1,7 @@
 # Catphotoapp
 FreeCodingCamp project
 Learning to use HTML elements, see below in edit mode
-I commented my kession out. 
+I commented my lesson out. 
 <!--
 <p></p>
 <id></id>
@@ -11,7 +11,7 @@ I commented my kession out.
 <title>Title</title>
 <html lang="en">
 <body></body>
-<h1></h1>through <h6></h6>
+<h1></h1> <h2></h2>through <h6></h6>
 <section></section>
 <main></main>
 <head></head>
