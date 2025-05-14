@@ -1,8 +1,9 @@
 # Catphotoapp
 FreeCodingCamp project
 Learning to use HTML elements, see below in edit mode
-
-<!--<p></p>
+I commented my kession out. 
+<!--
+<p></p>
 <id></id>
 <class></class>
 
