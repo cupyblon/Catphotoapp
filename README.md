@@ -2,7 +2,7 @@
 FreeCodingCamp project
 Learning to use HTML elements, see below in edit mode
 
-<p></p>
+<!--<p></p>
 <id></id>
 <class></class>
 
@@ -24,3 +24,4 @@ Learning to use HTML elements, see below in edit mode
 <a href="link">Link words</a> 
 <a target="_blank" href="www.link.com">The Link</a>
 <figure></figure>
+-->
